@@ -21,6 +21,7 @@ The dataset includes images of 12 plant species, preprocessed and provided as `.
 
 Due to dataset size constraints, original images have been resized to `128x128` and saved in `.npy` format for efficiency.
 
+![Click to view Code](https://github.com/Softechanalytics/computer_vision/blob/main/CNN_Project_Anyakwu_Chukwuemeka_Isaac2.ipynb)
 ---
 
 ## 🧠 Techniques & Workflow
@@ -92,7 +93,7 @@ Edit
 
 ---
 ## Additional Resources
-![Python Code](
+![Python Code](https://github.com/Softechanalytics/computer_vision/blob/main/CNN_Project_Anyakwu_Chukwuemeka_Isaac2.ipynb)
 ![Dataset](
 ---
 
