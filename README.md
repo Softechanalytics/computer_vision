@@ -96,8 +96,11 @@ Edit
 
 ---
 ## Additional Resources
+
 ![Python Code](https://github.com/Softechanalytics/computer_vision/blob/main/CNN_Project_Anyakwu_Chukwuemeka_Isaac2.ipynb)
+
 ![Dataset](https://github.com/Softechanalytics/computer_vision/blob/main/Labels.csv)
+
 ---
 
 ## 📬 Contact
