@@ -20,8 +20,11 @@ The dataset includes images of 12 plant species, preprocessed and provided as `.
   - `Labels.csv`: Labels associated with each image.
 
 Due to dataset size constraints, original images have been resized to `128x128` and saved in `.npy` format for efficiency.
-[Dataset](https://github.com/Softechanalytics/computer_vision/blob/main/Labels.csv)
-[Click to view Code](https://github.com/Softechanalytics/computer_vision/blob/main/CNN_Project_Anyakwu_Chukwuemeka_Isaac2.ipynb)
+
+![Dataset](https://github.com/Softechanalytics/computer_vision/blob/main/Labels.csv)
+
+![Click to view Code](https://github.com/Softechanalytics/computer_vision/blob/main/CNN_Project_Anyakwu_Chukwuemeka_Isaac2.ipynb)
+
 ---
 
 ## 🧠 Techniques & Workflow
