@@ -6,9 +6,9 @@ A deep learning project to classify images of plant seedlings into one of 12 spe
 
 ## 📌 Problem Statement
 
-The goal of this project is to create a CNN-based image classifier that can accurately determine the species of a plant seedling based on an image. This can aid in agricultural automation and environmental monitoring.
+This project aims to create a CNN-based image classifier that can accurately determine the species of a plant seedling based on an image. This can aid in agricultural automation and environmental monitoring.
 
-Dataset includes images of **12 plant species**, preprocessed and provided as `.npy` and `.csv` files.
+The dataset includes images of 12 plant species, preprocessed and provided as `.npy` and `.csv` files.
 
 ---
 
@@ -90,6 +90,10 @@ Edit
 - Try **transfer learning** with pretrained models like VGG16 or ResNet.
 - Deploy the model via Flask API or Streamlit app.
 
+---
+## Additional Resources
+![Python Code](
+![Dataset](
 ---
 
 ## 📬 Contact
