@@ -44,7 +44,7 @@ Due to dataset size constraints, original images have been resized to `128x128` 
 - Optimizer: `Adam`
 
 ### 5. 📊 Evaluation
-- Evaluated model on test data.
+- Evaluated the model on test data.
 - Generated and analyzed a **confusion matrix**.
 - Visualized predictions on selected test images.
 
@@ -61,7 +61,13 @@ Visualizations include:
 
 ## 📁 Repository Structure
 
-├── CNN_Project_Anyakwu_Chukwuemeka_Isaac2.ipynb # Main Jupyter notebook ├── CNN_Project_Anyakwu_Chukwuemeka_Isaac2.html # Rendered HTML version ├── Labels.csv # Image class labels ├── README.md # Project documentation
+├── CNN_Project_Anyakwu_Chukwuemeka_Isaac2.ipynb # Main Jupyter notebook 
+
+├── CNN_Project_Anyakwu_Chukwuemeka_Isaac2.html # Rendered HTML version 
+
+├── Labels.csv # Image class labels
+
+├── README.md # Project documentation
 
 yaml
 Copy
@@ -89,7 +95,7 @@ Edit
 ## 📬 Contact
 
 **Author**: Anyakwu Chukwuemeka Isaac  
-Feel free to connect via [LinkedIn](#) or email.
+Feel free to connect via [LinkedIn](https://www.linkedin.com/in/chukwuemekaanyakwu2409) or email.
 
 ---
 
